@@ -18,3 +18,5 @@ import time
 
 
 bilibilidanmu.py 主程序
+
+我也是学习来的，程序有借鉴别人的
